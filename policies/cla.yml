@@ -2,9 +2,22 @@ name: Contributor License Agreement Policy
 description: .NET Foundation CLA policy for public repositories
 
 resource: repository
+# Public repository allowlist. Update this list when repository visibility changes.
 where:
 - |
-  repository.private == false
+  repository.name.equals(".github", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("Anthropic", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("Betalgo.Ranul.Contracts", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("Blueflow", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("Blueflow-Legacy", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("DotNuget", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("LCE-Android-SDK", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("LCE-Documentation", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("LCE-iOS-SDK", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("Mergy", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("MergyClient", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("NugetPublisher", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("openai", StringComparison.InvariantCultureIgnoreCase)
 
 configuration: 
    cla:
