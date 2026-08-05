@@ -4,7 +4,7 @@ description: .NET Foundation CLA policy for public repositories
 resource: repository
 where:
 - |
-  !repository.isPrivate
+  repository.visibility.equals("public", StringComparison.InvariantCultureIgnoreCase)
 
 configuration: 
    cla:
