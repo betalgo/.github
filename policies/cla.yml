@@ -1,5 +1,5 @@
 name: Contributor License Agreement Policy
-description: .NET Foundation CLA policy file
+description: .NET Foundation CLA policy for public repositories
 
 resource: repository
 where:
