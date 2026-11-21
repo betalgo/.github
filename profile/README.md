@@ -1,10 +1,14 @@
-![Betalgo: open-source .NET libraries and tools](banner.png)
+![Betalgo. Makes things people and agents want.](banner.png)
 
-**Libraries**
-- [Betalgo.Ranul.OpenAI](https://github.com/betalgo/openai): .NET library for the OpenAI API
-- [Betalgo.Ranul.Anthropic](https://github.com/betalgo/Anthropic): .NET library for the Anthropic Claude API
+**Products**
+- [Welvets](https://welvets.com): Agents with habits.
+- [SoloPewPew](https://solopewpew.com): Home of solo founders.
+- [Laser Cat Eyes](https://lasercateyes.com)
+- [Ranul and Tinga](https://ranultinga.com)
 
-**Tools**
-- [NugetPublisher](https://github.com/betalgo/NugetPublisher): a GitHub Action that publishes .NET packages to NuGet.org and GitHub Packages
+**Open source**
+- [OpenAI for .NET](https://github.com/betalgo/openai)
+- [Anthropic for .NET](https://github.com/betalgo/Anthropic)
+- [NugetPublisher](https://github.com/betalgo/NugetPublisher)
 
 [betalgo.com](https://www.betalgo.com)
