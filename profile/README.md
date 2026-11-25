@@ -2,7 +2,7 @@
 
 **Products**
 - [Welvets](https://welvets.com): Agents with habits.
-- [Teal Lemur](https://github.com/betalgo/teallemur): Design repos for AI agents.
+- [Teal Lemur](https://teallemur.com): Design repos for AI agents.
 - [SoloPewPew](https://solopewpew.com): Home of solo founders.
 - [Laser Cat Eyes](https://lasercateyes.com)
 - [Ranul and Tinga](https://ranultinga.com)
